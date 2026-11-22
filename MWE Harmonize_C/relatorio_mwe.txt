@@ -1,0 +1,22 @@
+RELATORIO GERAL - MWE HARMONIZE
+========================================
+
+----------------------------------------
+Codigo: 1
+Evento: semana cultural
+Tipo: palestra
+Data: 10/12/2026 as 10:30
+Local: fesppr
+Quantidade de pessoas: 100
+Cadastrado em: 21/09/2026 19:55:43
+Contratante: Wesley
+CPF: 00562177154
+WhatsApp: 41997550274
+E-mail: wesleypira@gmail.com
+Custos:
+1. musicos - R$ 2500.00
+2. dj - R$ 500.00
+Total de custos: R$ 3000.00
+
+TOTAL DE EVENTOS: 1
+TOTAL GERAL DE CUSTOS: R$ 3000.00
